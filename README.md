@@ -16,7 +16,7 @@ Atualmente trabalhando no meu desenvolvimento como cientista de dados. Acompanhe
 - 🔭 Projetos em andamento: 
   - Bot de WhatsApp para lembretes automatizados
   - Análises com dados públicos
-  - Blog "Tô de Exatas" para descomplicar matemática (Projeto Voltado para Minha Esposa que é Mestra e Professora de Matematica)
+
 
 ---
 
