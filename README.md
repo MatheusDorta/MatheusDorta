@@ -19,7 +19,8 @@ Estou estudando **Python**, **SQL**, **Pandas**, **Power BI** e automatizações
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
-### 📜 Certificados
+
+## 📜 Certificados
 
 | Curso                                                             | Plataforma             | Carga Horária | Certificado |
 |------------------------------------------------------------------|------------------------|---------------|-------------|
@@ -29,13 +30,23 @@ Estou estudando **Python**, **SQL**, **Pandas**, **Power BI** e automatizações
 | Formação Lógica de Programação                                   | DIO                    | 41h           | [Ver certificado](https://www.dio.me/certificate/DZTWK7XU/share) |
 | Formação Python Fundamentals                                     | DIO                    | 26h           | [Ver certificado](https://www.dio.me/certificate/GXR5FALW/share) |
 | Fundamentos de Banco de Dados                                    | DIO                    | 10h           | [Ver certificado](https://www.dio.me/certificate/OLH6FOZY/share) |
-| Formação Github Certification                                    | DIO                    | 10h           | [Ver certificado](https://www.dio.me/certificate/Z3CRAYRY/share) |
+| Formação GitHub Certification                                    | DIO                    | 10h           | [Ver certificado](https://www.dio.me/certificate/Z3CRAYRY/share) |
 
 ---
+
 ## 🚀 Projetos em Destaque
 
+### 🔹 [🤖 Jarvis - Assistente Pessoal Automatizado](https://github.com/MatheusDorta/jarvis)  
+Sistema de automações com Python para produtividade pessoal.  
+Funcionalidades:
+- Execução de comandos com voz e texto  
+- Integração com APIs e ferramentas de produtividade  
+- Modular e expansível  
+
+---
+
 ### 🔹 [🤖 Bot de WhatsApp em Python](https://github.com/MatheusDorta/whatsapp-bot)  
-Bot automatizado para envio de lembretes personalizados via WhatsApp, ideal para empresas que desejam melhorar a comunicação com clientes.  
+Bot automatizado para envio de lembretes personalizados via WhatsApp. Ideal para empresas que desejam melhorar a comunicação com clientes.  
 Funcionalidades:
 - Agendamento de mensagens  
 - Lista de contatos  
@@ -44,7 +55,7 @@ Funcionalidades:
 ---
 
 ### 🔹 [🏦 API Bancária - Projeto DIO](https://github.com/MatheusDorta/api-banco-dio)  
-Simulação de uma API bancária desenvolvida em Python, focada em back-end e lógica de contas.  
+Simulação de uma API bancária desenvolvida em Python.  
 Inclui:
 - Endpoints REST com FastAPI  
 - Manipulação de contas, saldo e transferências  
@@ -57,7 +68,7 @@ Projeto de modelagem de banco de dados para uma oficina mecânica.
 Inclui:
 - Diagrama entidade-relacionamento (ERD)  
 - Relações entre clientes, veículos, serviços e ordens  
-- Ótimo exercício de estruturação de dados reais  
+- Estruturação de dados reais  
 
 ---
 
@@ -76,3 +87,8 @@ Inclui:
 - SQL aplicado a negócios e ciência de dados  
 - Estatística e fundamentos de Machine Learning  
 - Criação de dashboards com Power BI  
+
+---
+
+> **"Se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente, e não lança em rosto, e ser-lhe-á dada."**  
+> *Tiago 1:5*
