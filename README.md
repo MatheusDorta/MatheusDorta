@@ -19,7 +19,19 @@ Estou estudando **Python**, **SQL**, **Pandas**, **Power BI** e automatizações
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
+### 📜 Certificados
 
+| Curso                                                             | Plataforma             | Carga Horária | Certificado |
+|------------------------------------------------------------------|------------------------|---------------|-------------|
+| Santander Bootcamp Fullstack Developer                           | DIO                    | 120h          | [Ver certificado](https://www.dio.me/certificate/4CCEDC41/share) |
+| Spring Framework Experience                                      | DIO                    | 50h           | [Ver certificado](https://www.dio.me/certificate/2DDBF592/share) |
+| Microsoft Azure AI Fundamentals                                  | DIO                    | 35h           | [Ver certificado](https://www.dio.me/certificate/GGWFNNG6/share) |
+| Formação Lógica de Programação                                   | DIO                    | 41h           | [Ver certificado](https://www.dio.me/certificate/DZTWK7XU/share) |
+| Formação Python Fundamentals                                     | DIO                    | 26h           | [Ver certificado](https://www.dio.me/certificate/GXR5FALW/share) |
+| Fundamentos de Banco de Dados                                    | DIO                    | 10h           | [Ver certificado](https://www.dio.me/certificate/OLH6FOZY/share) |
+| Formação Github Certification                                    | DIO                    | 10h           | [Ver certificado](https://www.dio.me/certificate/Z3CRAYRY/share) |
+
+---
 ## 🚀 Projetos em Destaque
 
 ### 🔹 [🤖 Bot de WhatsApp em Python](https://github.com/MatheusDorta/whatsapp-bot)  
