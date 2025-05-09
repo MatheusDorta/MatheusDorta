@@ -31,6 +31,7 @@ Estou estudando **Python**, **SQL**, **Pandas**, **Power BI** e automatizações
 | Formação Python Fundamentals                                     | DIO                    | 26h           | [Ver certificado](https://www.dio.me/certificate/GXR5FALW/share) |
 | Fundamentos de Banco de Dados                                    | DIO                    | 10h           | [Ver certificado](https://www.dio.me/certificate/OLH6FOZY/share) |
 | Formação GitHub Certification                                    | DIO                    | 10h           | [Ver certificado](https://www.dio.me/certificate/Z3CRAYRY/share) |
+| Formação Fundamentos de Inteligência Artificial                  | DIO                    | 10h           | [Ver certificado](https://www.dio.me/certificate/UNQ5DPQ6/share) |
 
 ---
 
