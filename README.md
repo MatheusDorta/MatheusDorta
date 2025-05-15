@@ -37,6 +37,15 @@ Estou estudando **Python**, **SQL**, **Pandas**, **Power BI** e automatizações
 
 ## 🚀 Projetos em Destaque
 
+### 🔹 [📊 Dashboards em Power BI](https://github.com/MatheusDorta/Power-BI-Dio)  
+Repositório com dashboards criados durante estudos e projetos práticos.  
+Inclui:
+- Arquivos .pbix e dados usados
+- Visuais personalizados
+- Exportações e links para o Power BI Service
+
+---
+
 ### 🔹 [🤖 Jarvis - Assistente Pessoal Automatizado](https://github.com/MatheusDorta/jarvis)  
 Sistema de automações com Python para produtividade pessoal.  
 Funcionalidades:
