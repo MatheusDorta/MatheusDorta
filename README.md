@@ -26,9 +26,10 @@ Estou estudando **Python**, **SQL**, **Pandas**, **Power BI** e automatizações
 |------------------------------------------------------------------|------------------------|---------------|-------------|
 | Bacharel em Administração                                        | Unopar                 | 4 Anos        | [Ver certificado](https://diplomas.somosb4.com.br/validar/298.298.ce83d8bc32ac) |
 | Santander Bootcamp Fullstack Developer                           | DIO                    | 120h          | [Ver certificado](https://www.dio.me/certificate/4CCEDC41/share) |
+| Formação Power BI Analyst                                        | DIO                    | 60h           | [Ver certificado](https://www.dio.me/certificate/D3GB0HII/share) |
 | Spring Framework Experience                                      | DIO                    | 50h           | [Ver certificado](https://www.dio.me/certificate/2DDBF592/share) |
-| Microsoft Azure AI Fundamentals                                  | DIO                    | 35h           | [Ver certificado](https://www.dio.me/certificate/GGWFNNG6/share) |
 | Formação Lógica de Programação                                   | DIO                    | 41h           | [Ver certificado](https://www.dio.me/certificate/DZTWK7XU/share) |
+| Microsoft Azure AI Fundamentals                                  | DIO                    | 35h           | [Ver certificado](https://www.dio.me/certificate/GGWFNNG6/share) |
 | Formação Python Fundamentals                                     | DIO                    | 26h           | [Ver certificado](https://www.dio.me/certificate/GXR5FALW/share) |
 | Fundamentos de Banco de Dados                                    | DIO                    | 10h           | [Ver certificado](https://www.dio.me/certificate/OLH6FOZY/share) |
 | Formação GitHub Certification                                    | DIO                    | 10h           | [Ver certificado](https://www.dio.me/certificate/Z3CRAYRY/share) |
