@@ -76,7 +76,7 @@ Inclui:
 
 ---
 
-### 🔹 [🛠️ Estudo de Modelagem e SQL (E-commerce)](https://github.com/MatheusDorta/Ecommerce-SQL)
+### 🔹 [🛠️ Estudo de Modelagem e SQL (E-commerce)](https://github.com/MatheusDorta/Diagrama-E-commerce-Dio.git)
 
 Projeto de modelagem lógica e criação de banco de dados para um sistema de **e-commerce**, com foco em entidades e relacionamentos reais, incluindo clientes PF/PJ, pedidos, produtos, formas de pagamento, entregas, fornecedores e vendedores.
 
