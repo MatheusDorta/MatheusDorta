@@ -76,12 +76,21 @@ Inclui:
 
 ---
 
-### 🔹 [🛠️ Estudo de Diagrama da Oficina](https://github.com/MatheusDorta/diagrama-oficina)  
-Projeto de modelagem de banco de dados para uma oficina mecânica.  
+### 🔹 [🛠️ Estudo de Modelagem e SQL (E-commerce)](https://github.com/MatheusDorta/Ecommerce-SQL)
+
+Projeto de modelagem lógica e criação de banco de dados para um sistema de **e-commerce**, com foco em entidades e relacionamentos reais, incluindo clientes PF/PJ, pedidos, produtos, formas de pagamento, entregas, fornecedores e vendedores.
+
 Inclui:
-- Diagrama entidade-relacionamento (ERD)  
-- Relações entre clientes, veículos, serviços e ordens  
-- Estruturação de dados reais  
+
+- 🔸 Diagrama Entidade-Relacionamento (ERD)
+- 🔸 Modelo lógico com chave primária e estrangeira
+- 🔸 Script de criação do esquema (DDL)
+- 🔸 Inserção de dados reais para testes (DML)
+- 🔸 Consultas SQL com:
+  - `SELECT`, `WHERE`, `ORDER BY`, `HAVING`
+  - Expressões derivadas
+  - Junções entre tabelas
+  - Agrupamentos
 
 ---
 
