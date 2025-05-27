@@ -50,7 +50,7 @@ Inclui:
 
 ---
 
-### 🔹 [🤖 Jarvis - Assistente Pessoal Automatizado](https://github.com/MatheusDorta/jarvis)  
+### 🔹 [🤖 Jarvis - Assistente Pessoal Automatizado](https://github.com/MatheusDorta/Jarvas.git)  
 Sistema de automações com Python para produtividade pessoal.  
 Funcionalidades:
 - Execução de comandos com voz e texto  
