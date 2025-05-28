@@ -26,6 +26,7 @@ Estou estudando **Python**, **SQL**, **Pandas**, **Power BI** e automatizações
 |------------------------------------------------------------------|------------------------|---------------|-------------|
 | Bacharel em Administração                                        | Unopar                 | 4 Anos        | [Ver certificado](https://diplomas.somosb4.com.br/validar/298.298.ce83d8bc32ac) |
 | Santander Bootcamp Fullstack Developer                           | DIO                    | 120h          | [Ver certificado](https://www.dio.me/certificate/4CCEDC41/share) |
+| Potência Tech powered by iFood | Ciência de Dados                | DIO                    | 80h           | [Ver certificado](https://www.dio.me/certificate/0AZBWGRV/share) |
 | Formação SQL Database Specialist                                 | DIO                    | 72h           | [Ver certificado](https://www.dio.me/certificate/X1DCJHSL/share) |
 | Formação Power BI Analyst                                        | DIO                    | 60h           | [Ver certificado](https://www.dio.me/certificate/D3GB0HII/share) |
 | Bootcamp Squadio - Phyton Data Analystics                        | DIO                    | 60h           | [Ver certificado](https://www.dio.me/certificate/7JPNEDK1/share) |
