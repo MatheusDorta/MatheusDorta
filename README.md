@@ -29,7 +29,7 @@ Estou estudando **Python**, **SQL**, **Pandas**, **Power BI** e automatizações
 | Potência Tech powered by iFood - Ciência de Dados                | DIO                    | 80h           | [Ver certificado](https://www.dio.me/certificate/0AZBWGRV/share) |
 | Formação SQL Database Specialist                                 | DIO                    | 72h           | [Ver certificado](https://www.dio.me/certificate/X1DCJHSL/share) |
 | Formação Power BI Analyst                                        | DIO                    | 60h           | [Ver certificado](https://www.dio.me/certificate/D3GB0HII/share) |
-| Bootcamp Squadio - Phyton Data Analystics                        | DIO                    | 60h           | [Ver certificado](https://www.dio.me/certificate/7JPNEDK1/share) |
+| Bootcamp Squadio - Python Data Analystics                        | DIO                    | 60h           | [Ver certificado](https://www.dio.me/certificate/7JPNEDK1/share) |
 | Spring Framework Experience                                      | DIO                    | 50h           | [Ver certificado](https://www.dio.me/certificate/2DDBF592/share) |
 | Formação Lógica de Programação                                   | DIO                    | 41h           | [Ver certificado](https://www.dio.me/certificate/DZTWK7XU/share) |
 | Microsoft Azure AI Fundamentals                                  | DIO                    | 35h           | [Ver certificado](https://www.dio.me/certificate/GGWFNNG6/share) |
