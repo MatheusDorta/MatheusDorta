@@ -61,12 +61,12 @@ Funcionalidades:
 
 ---
 
-### 🔹 [🤖 Bot de WhatsApp em Python](https://github.com/MatheusDorta/whatsapp-bot)  
+### 🔹 [🤖Painel-do-Freelancer-Inteligente](https://github.com/MatheusDorta/Painel-do-Freelancer-Inteligente.git)  
 Bot automatizado para envio de lembretes personalizados via WhatsApp. Ideal para empresas que desejam melhorar a comunicação com clientes.  
 Funcionalidades:
-- Agendamento de mensagens  
-- Lista de contatos  
-- Avisos de mensalidade e promoções  
+- Notificação no Telegram particular 
+- Bot que busca vagas novas no site  
+- Painel de controle com todas as vagas ja registradas  
 
 ---
 
